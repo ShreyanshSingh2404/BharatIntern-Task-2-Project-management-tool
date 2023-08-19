@@ -1,2 +1,2 @@
-# BharatIntern-Task-2-Project-management-tool
-Virtual internship at Bharat intern Task 2- Project management tool using technology such as PHP, SQL, JAVASCRIPT,etc.
+# BharatIntern-Task2-Project-Management-Tool
+Virtual Internship Tasks for Bharat Internship in Full Stack Development, Task 2 is about the Project Management Tool is done using PHP, SQL, JAVASCRIPT etc
